@@ -55,7 +55,7 @@ You'll soon be able to explore the entire collection & purchase your own on the 
 
 In the meantime you can check out a random PXL here: https://pxlz.org/random
 
-I encourage you to try and get acquainted with as many as you can - simply refresh the <a href="https://pxlz. org/random">random page</a>. Who knows, you might nab a rare or even legendary one during one of the sale events!
+I encourage you to try and get acquainted with as many as you can. Who knows, you might nab a rare or even legendary one during one of the sale events!
 
 -----
 ### How is the ownership of a DEADPXL NFT guaranteed?
