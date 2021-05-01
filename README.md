@@ -3,11 +3,11 @@
 **DEADPXLZ** is a collection of **10,000 code-generated, unique & interact-able NFTs** minted on the Cardano 
 blockchain.
 
-###What's special about these NFTs?
+### What's special about these NFTs?
 What makes DEADPXLZ special among the other NFT collectibles out there is that they're the first interact-able
 tokens that have ever been minted on Cardano!
 
-###🤔What does 'interact-able NFT' even mean?
+### 🤔What does 'interact-able NFT' even mean?
 It means that you can change your PXL's mood & background animation with a simple tap or click.
 
 Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 & **sad** 🙁 <br>
@@ -16,7 +16,7 @@ Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 &
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
 
-###Still not impressed? <br>
+### Still not impressed? <br>
 What if I told you that if you double-tap or double-click your PXL, it will reveal its 
 stats?
 
@@ -27,7 +27,7 @@ is! With DEADPXLZ, you can brag about that super rare stats right from within th
 🎈I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
 blockchain by the DEADPXLZ project! 
 
-###What about attributes?
+### What about attributes?
 There's a total of 69 🙃 attributes which are combined together to  make each PXL unique.
 In addition to this, there are 6 types of PXLZ:
 - **DEAD** - the most common ones
@@ -39,7 +39,7 @@ In addition to this, there are 6 types of PXLZ:
 
 **One PXL can have from 0 to a maximum of 8 attributes most of which feature animated graphics. <br>**
 
-###But how can an image respond to gestures?
+### But how can an image respond to gestures?
 
 Who ever said they're images? All DEADPXLZ NFTs are essentially web pages hosted on IPFS built with HTML, CSS & vanilla JS. Due to this technical aspect, you can literally display them on any device which supports an internet browser without sacrificing quality.
 
@@ -58,7 +58,7 @@ In the meantime you can check out a random PXL here: https://pxlz.org/random
 I encourage you to try and get acquainted with as many as you can - simply refresh the <a href="https://pxlz. org/random">random page</a>. Who knows, you might nab a rare or even legendary one during one of the sale events!
 
 -----
-###How is the ownership of a DEADPXL NFT guaranteed?
+### How is the ownership of a DEADPXL NFT guaranteed?
 All DEADPXLZ are inextricably tied to their respective mint transaction metadata which is stored on the Cardano blockchain upon minting the NFT. The metadata provides all the information related to that specific token.
 
 In addition to the token attributes and type, the metadata also points to files which are stored on IPFS and as such are immutable thus guaranteeing to the owner of the token that he is also the current owner of said files.
@@ -73,7 +73,7 @@ Join the official channels to engage with the community & stay up to date with t
 - Discord: https://discord.gg/t4ev6aub
 
 -----
-###Useful links - all available in the <a href="https://github.com/DEADPXLZ/DEADPXLZ">DEADPXLZ repo</a>:
+### Useful links - all available in the <a href="https://github.com/DEADPXLZ/DEADPXLZ">DEADPXLZ repo</a>:
 
 - **The project's minting policy ID** - **0a3c905527ef7de685688edda978ba4b888e6a913f67c3bdc95d1a06** - this is the unique identifier of the policy under which all 10,000 DEADPXLZ have been minted! You will NEVER see any original PXL minted under a different policy ID. Check it out here: https://cardanoscan.io/tokenPolicy/0a3c905527ef7de685688edda978ba4b888e6a913f67c3bdc95d1a06
   
