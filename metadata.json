@@ -1,0 +1,26 @@
+{
+  "721": {
+    "0a3c905527ef7de685688edda978ba4b888e6a913f67c3bdc95d1a06": {
+      "DEADPXL<number>": {
+        "image": "<IPFS link to the PXL thumbnail image>",
+        "name": "DEADPXL#<number>",
+        "properties": [
+          {
+            "key": "type",
+            "value": "<one of dead/vampire/wolf/alien/reptile/legendary>"
+          }
+        ],
+        "src": "<IPFS link to the PXL>",
+        "tags": [
+          "PXL",
+          "attributes",
+          "go",
+          "here"
+        ],
+        "type": "text/html"
+      }
+    },
+    "creator": "AF@pxlz.org",
+    "description": "The first interact-able NFT collection on the Cardano blockchain"
+  }
+}
