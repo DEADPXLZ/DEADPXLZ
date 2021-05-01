@@ -15,9 +15,7 @@ It means that you can change your PXL's mood & background animation with a simpl
 Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 & **sad** 🙁 <br>
 **_Pro tip: Make your PXL happy & it will start winking back at you._**
 
-
 https://user-images.githubusercontent.com/83417674/116793612-61766280-aad0-11eb-93f2-f4ba3a2bda32.mov
-
 
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
@@ -26,14 +24,11 @@ tapping or clicking on them.
 What if I told you that if you double-tap or double-click your PXL, it will reveal its 
 stats?
 
-🤯
-
-Yep - no need for a centralized 3rd party marketplace to host your token on in order to reveal how scarce it actually 
-is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT!
-
-
 https://user-images.githubusercontent.com/83417674/116793624-6dfabb00-aad0-11eb-9a9e-0bdf02068c04.mov
 
+🤯
+
+Yep - no need for a centralized 3rd party marketplace to host your token on in order to reveal how scarce it actually is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT! You can close the stats panel by simply tapping anywhere on the screen.
 
 🎈 I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
 blockchain by the DEADPXLZ project! 
