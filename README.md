@@ -7,11 +7,11 @@ blockchain.
 What makes DEADPXLZ special among the other NFT collectibles out there is that they're the first interact-able
 tokens that have ever been minted on Cardano!
 
-### 🤔What does 'interact-able NFT' even mean?
+### 🤔 What does 'interact-able NFT' even mean?
 It means that you can change your PXL's mood & background animation with a simple tap or click.
 
 Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 & **sad** 🙁 <br>
-**_Pro tip: Make your PXL happy & it will start winking back at you. 😉_**
+**_Pro tip: Make your PXL happy & it will start winking back at you._**
 
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
@@ -20,7 +20,7 @@ tapping or clicking on them.
 What if I told you that if you double-tap or double-click your PXL, it will reveal its 
 stats?
 
-🤯🤯🤯
+🤯
 
 Yep - no need for a centralized 3rd party marketplace to host your token on in order to reveal how scarce it actually 
 is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT! <br><br>
@@ -72,6 +72,8 @@ Join the official channels to engage with the community & stay up to date with t
 - Telegram: https://t.me/DEADPXLZ
 - Discord: https://discord.gg/t4ev6aub
 
+🍻
+-AF (https://twitter.com/adifanatiu)
 -----
 ### Useful links - all available in the <a href="https://github.com/DEADPXLZ/DEADPXLZ">DEADPXLZ repo</a>:
 
@@ -81,7 +83,7 @@ Join the official channels to engage with the community & stay up to date with t
 - **The project's minting policy file** (<a href="https://github.com/DEADPXLZ/DEADPXLZ/blob/main/policy.script">policy.script</a>) - this is a time locked policy & it validates that no other PXL will EVER be minted under the same policy ID thus providing assurance of scarcity & validity to the NFT owner. The time lock kicks in at slot 30,000,000 aka May 21st 2021. 
 
 
-- **The transaction metadata template JSON file** (<a href="https://github.com/DEADPXLZ/DEADPXLZ/blob/main/metadata. json">metadata.json</a>) - Current CIP-compliant metadata template under which all 10,000 PXLZ NFTs have been minted.
+- **The transaction metadata template JSON file** (<a href="https://github.com/DEADPXLZ/DEADPXLZ/blob/main/metadata.json">metadata.json</a>) - Current CIP-compliant metadata template under which all 10,000 PXLZ NFTs have been minted.
   
 
 - **The ID to ATTRIBUTES and IPFS URLs mapping file** (<a href="https://raw.githubusercontent. com/DEADPXLZ/DEADPXLZ/main/pxlz.json">pxlz.json</a>) - used to generate the 10,000 DEADPXLZ metadata.
