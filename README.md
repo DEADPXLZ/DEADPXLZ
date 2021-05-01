@@ -1,5 +1,7 @@
 ## Hello & welcome to DEADPXLZ! 🖖
 
+![DEADPXLZ_twitter_cover](https://user-images.githubusercontent.com/83417674/116793590-41df3a00-aad0-11eb-8c40-29a3d14fc32f.png)
+
 **DEADPXLZ** is a collection of **10,000 code-generated, unique & interact-able NFTs** minted on the Cardano 
 blockchain.
 
@@ -13,6 +15,10 @@ It means that you can change your PXL's mood & background animation with a simpl
 Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 & **sad** 🙁 <br>
 **_Pro tip: Make your PXL happy & it will start winking back at you._**
 
+
+https://user-images.githubusercontent.com/83417674/116793612-61766280-aad0-11eb-93f2-f4ba3a2bda32.mov
+
+
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
 
@@ -23,7 +29,12 @@ stats?
 🤯
 
 Yep - no need for a centralized 3rd party marketplace to host your token on in order to reveal how scarce it actually 
-is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT! <br><br>
+is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT!
+
+
+https://user-images.githubusercontent.com/83417674/116793624-6dfabb00-aad0-11eb-9a9e-0bdf02068c04.mov
+
+
 🎈 I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
 blockchain by the DEADPXLZ project! 
 
