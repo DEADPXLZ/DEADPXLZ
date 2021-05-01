@@ -24,7 +24,7 @@ stats?
 
 Yep - no need for a centralized 3rd party marketplace to host your token on in order to reveal how scarce it actually 
 is! With DEADPXLZ, you can brag about that super rare stats right from within the actual NFT! <br><br>
-🎈I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
+🎈 I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
 blockchain by the DEADPXLZ project! 
 
 ### What about attributes?
@@ -65,7 +65,7 @@ In addition to the token attributes and type, the metadata also points to files 
 
 All this information is publicly available on any of the Cardano blockchain explorers and can be viewed by navigating to your token's mint transaction: https://cardanoscan.io/tokenPolicy/0a3c905527ef7de685688edda978ba4b888e6a913f67c3bdc95d1a06
 
-🤓If you want to go deeper down the rabbit hole, the mint tx metadata JSON template is available in <a href="https://github.com/DEADPXLZ/DEADPXLZ">the DEADPXLZ repo</a> & is compliant with the current <a href="https://github. com/cardano-foundation/CIPs/pull/85/commits/ed48e5a38b75eb31f16288338a3c1ef93fecde47">Cardano Metadata CIP NFT 721 standard</a>.
+🤓 If you want to go deeper down the rabbit hole, the mint tx metadata JSON template is available in <a href="https://github.com/DEADPXLZ/DEADPXLZ">the DEADPXLZ repo</a> & is compliant with the current <a href="https://github. com/cardano-foundation/CIPs/pull/85/commits/ed48e5a38b75eb31f16288338a3c1ef93fecde47">Cardano Metadata CIP NFT 721 standard</a>.
 
 Join the official channels to engage with the community & stay up to date with the upcoming sale events:
 - Twitter: https://twitter.com/PXLZ14
