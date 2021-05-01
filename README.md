@@ -86,4 +86,4 @@ Join the official channels to engage with the community & stay up to date with t
 - **The transaction metadata template JSON file** (<a href="https://github.com/DEADPXLZ/DEADPXLZ/blob/main/metadata.json">metadata.json</a>) - Current CIP-compliant metadata template under which all 10,000 PXLZ NFTs have been minted.
   
 
-- **The ID to ATTRIBUTES and IPFS URLs mapping file** (<a href="https://raw.githubusercontent. com/DEADPXLZ/DEADPXLZ/main/pxlz.json">pxlz.json</a>) - used to generate the 10,000 DEADPXLZ metadata.
+- **The ID to ATTRIBUTES and IPFS URLs mapping file** (<a href="https://raw.githubusercontent.com/DEADPXLZ/DEADPXLZ/main/pxlz.json">pxlz.json</a>) - used to generate the 10,000 DEADPXLZ metadata.
