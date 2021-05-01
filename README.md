@@ -1,4 +1,4 @@
-## Hello & welcome to DEADPXLZ 🖖
+## Hello & welcome to DEADPXLZ! 🖖
 
 **DEADPXLZ** is a collection of **10,000 code-generated, unique & interact-able NFTs** minted on the Cardano 
 blockchain.
