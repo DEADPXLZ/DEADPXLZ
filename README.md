@@ -60,7 +60,7 @@ And I mean ANY device! Smartwatches? Yep. Phones, tablets? Sure! TVs? 100%! The 
 
 All PXLZ have been designed to support any modern web browser and feature a fully responsive design which means that no matter the screen size or orientation, your PXL will scale accordingly. Oh & not to mention they're lightweight - the average size of 1 PXL is around 25Kb!
 
-All PXLZ are built to be social-friendly. This means that you can directly share the PXL URL (no marketplace required!) of your PXL on Twitter, Telegram, Discord, Facebook or any other messaging app or social space and its thumbnail along with its name & short description will pop up.
+PXLZ are built to be social-friendly. This means that you can directly share the PXL URL (no marketplace required!) of your PXL on Twitter, Telegram, Discord, Facebook or any other messaging app or social space and its thumbnail along with its name & short description will pop up.
 
 The thumbnail images embedded within each PXL are also registered as NFTs & hosted on IPFS, alongside your PXL! An NFT within an NFT! These are the only external resources loaded by a PXL which makes any 'tampering' with the token impossible.
 
@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/83417674/117320312-c8ab6280-ae94-11eb-
 
 You'll soon be able to explore the entire collection & purchase your own on the official website - https://pxlz.org
 
-In the meantime you can check out a random PXL here: https://pxlz.org/random
+**In the meantime you can check out a random PXL here: https://pxlz.org/random**
 
 I encourage you to try and get acquainted with as many as you can. Who knows, you might nab a rare or even legendary one during one of the sale events!
 
