@@ -1,9 +1,9 @@
 {
   "721": {
-    "0a3c905527ef7de685688edda978ba4b888e6a913f67c3bdc95d1a06": {
-      "DEADPXL<number>": {
+    "1ec85dcee27f2d90ec1f9a1e4ce74a667dc9be8b184463223f9c9601": {
+      "PXL<number>": {
         "image": "<IPFS link to the PXL thumbnail image>",
-        "name": "DEADPXL#<number>",
+        "name": "PXL#<number>",
         "properties": [
           {
             "key": "type",
@@ -21,6 +21,6 @@
       }
     },
     "creator": "AF@pxlz.org",
-    "description": "The first interact-able NFT collection on the Cardano blockchain"
+    "description": "The first interactable NFT collectibles on Cardano."
   }
 }

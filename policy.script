@@ -9,5 +9,5 @@
             "type": "before"
         }
     ],
-    "type": "any"
+    "type": "all"
 }
