@@ -71,6 +71,7 @@ Another unique PXL feature is that they're built as PWAs (progressive web apps).
 
 https://user-images.githubusercontent.com/83417674/117320312-c8ab6280-ae94-11eb-8193-1ded1ee14a44.mp4
 
+_BTW - this can be done on any Android & iOS mobile devices as well as your own Mac or PC!_
 
 You'll soon be able to explore the entire collection & purchase your own on the official website - https://pxlz.org
 
