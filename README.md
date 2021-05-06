@@ -79,7 +79,7 @@ You'll soon be able to explore the entire collection & purchase your own on the 
 
 I encourage you to try and get acquainted with as many as you can. Who knows, you might nab a rare or even legendary one during one of the sale events!
 
-### Ownership guarantee
+###🔒 Ownership guarantee
 All PXLZ are inextricably tied to their respective mint transaction metadata which is stored on the Cardano blockchain upon minting the NFT. The metadata provides all the information related to that specific token.
 
 In addition to the token attributes and type, the metadata also points to files which are stored on IPFS and as such are immutable thus guaranteeing to the owner of the token that he is also the current owner of said files.
