@@ -62,6 +62,10 @@ All PXLZ have been designed to support any modern web browser and feature a full
 
 PXLZ are built to be social-friendly. This means that you can directly share the PXL URL (no marketplace required!) of your PXL on Twitter, Telegram, Discord, Facebook or any other messaging app or social space and its thumbnail along with its name & short description will pop up.
 
+
+![social_demo](https://user-images.githubusercontent.com/83417674/117409144-8415da80-af19-11eb-9fbf-3fe9d74a5436.png)
+
+
 The thumbnail images embedded within each PXL are also registered as NFTs & hosted on IPFS, alongside your PXL! An NFT within an NFT! These are the only external resources loaded by a PXL which makes any 'tampering' with the token impossible.
 
 Another unique PXL feature is that they're built as PWAs (progressive web apps).
@@ -72,6 +76,7 @@ Another unique PXL feature is that they're built as PWAs (progressive web apps).
 https://user-images.githubusercontent.com/83417674/117320312-c8ab6280-ae94-11eb-8193-1ded1ee14a44.mp4
 
 _BTW - this can be done on any Android & iOS mobile device as well as Macs or PCs!_
+
 
 You'll soon be able to explore the entire collection & purchase your own on the official website - https://pxlz.org
 
