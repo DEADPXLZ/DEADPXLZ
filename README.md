@@ -99,7 +99,7 @@ Join the official channels to engage with the community & stay up to date with t
 
 ## Twitter: https://twitter.com/PXLZ14
 ## Telegram: https://t.me/DEADPXLZ
-## Discord: https://discord.gg/t4ev6aub
+## Discord: https://discord.gg/cpMs9jvxJh
 
 Cheers! 🍻
 -AF (https://twitter.com/adifanatiu)
