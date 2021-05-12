@@ -65,6 +65,7 @@ PXLZ are built to be social-friendly. This means that you can directly share the
 
 https://user-images.githubusercontent.com/83417674/118038718-26015100-b378-11eb-8b6f-058fb0c0f874.mp4
 
+https://user-images.githubusercontent.com/83417674/118039177-b8a1f000-b378-11eb-94e2-37076d201224.mp4
 
 ![social_demo](https://user-images.githubusercontent.com/83417674/117409144-8415da80-af19-11eb-9fbf-3fe9d74a5436.png)
 
