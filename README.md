@@ -63,6 +63,9 @@ All PXLZ have been designed to support any modern web browser and feature a full
 PXLZ are built to be social-friendly. This means that you can directly share the PXL URL (no marketplace required!) of your PXL on Twitter, Telegram, Discord, Facebook or any other messaging app or social space and its thumbnail along with its name & short description will pop up.
 
 
+https://user-images.githubusercontent.com/83417674/118038718-26015100-b378-11eb-8b6f-058fb0c0f874.mp4
+
+
 ![social_demo](https://user-images.githubusercontent.com/83417674/117409144-8415da80-af19-11eb-9fbf-3fe9d74a5436.png)
 
 
