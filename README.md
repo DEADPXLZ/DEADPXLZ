@@ -19,7 +19,6 @@ Each DEADPXLZ NFT comes packed with 3 moods - **happy** 😊, **neutral** 😐 &
 https://user-images.githubusercontent.com/83417674/117318893-7e75b180-ae93-11eb-84fc-f8b2eadcab8b.mp4
 
 
-
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
 
@@ -95,6 +94,14 @@ All this information is publicly available on any of the Cardano blockchain expl
 🤓 If you want to go deeper down the rabbit hole, the mint tx metadata JSON template is available in <a href="https://github.com/DEADPXLZ/DEADPXLZ">the DEADPXLZ repo</a> & is compliant with the current <a href="https://github. com/cardano-foundation/CIPs/pull/85/commits/ed48e5a38b75eb31f16288338a3c1ef93fecde47">Cardano Metadata CIP NFT 721 standard</a>.
 
 ### Where do we go from here?
+
+## https://pxlz.org
+## 🔥 Upcoming sale events: https://pxlz.org/sale
+## 🤝 Meet a PXL: https://pxlz.org/#meet-a-PXL
+## 📱 PXLZ use cases: https://pxlz.org/use-cases
+## 🔭 PXL EXPLORER: https://pxlz.org/explorer
+## 🤔 PXLZ FAQ: https://pxlz.org/faq
+## 🤓 About DEADPXLZ: https://pxlz.org/about
 
 Join the official channels to engage with the community & stay up to date with the upcoming sale events:
 
