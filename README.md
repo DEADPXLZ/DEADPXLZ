@@ -42,12 +42,12 @@ blockchain by the DEADPXLZ project!
 There's a total of 69 🙃 attributes which are combined together to  make each PXL unique.
 In addition to this, there are 6 types of PXLZ:
 <ul>
-  <li>😵 **DEAD** (9820)</li>
-  <li>🧛🏻‍♂️ **VAMPIRES** (45)</li>
-  <li>🐺 **WEREWOLVES** (35)</li>
-  <li>👽 **ALIENS** (17)</li>
-  <li>🦎 **REPTILIANS** (73)</li>
-  <li>🧙️ **LEGENDARY** (10) - built as a tribute to some of the finest that pop-culture has to offer</li>
+  <li>😵 DEAD (9820)</li>
+  <li>🧛🏻‍♂️ VAMPIRES (45)</li>
+  <li>🐺 WEREWOLVES (35)</li>
+  <li>👽 ALIENS (17)</li>
+  <li>🦎 REPTILIANS (73)</li>
+  <li>🧙️ LEGENDARY (10) - built as a tribute to some of the finest that pop-culture has to offer</li>
 </ul>
 
 **One PXL can have from 0 to a maximum of 8 attributes most of which feature animated graphics. <br>**
