@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/83417674/117318893-7e75b180-ae93-11eb-
 In addition to this, all PXLZ also feature 8 different background animations which you can cycle through randomly by 
 tapping or clicking on them.
 
-### Still not impressed? <br>
+### 🚨 Decentralized stats! <br>
 What if I told you that if you double-tap or double-click your PXL, it will reveal its 
 stats?
 
