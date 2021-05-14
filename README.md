@@ -43,7 +43,7 @@ There's a total of 69 🙃 attributes which are combined together to  make each 
 In addition to this, there are 6 types of PXLZ:
 <ul>
   <li>😵 **DEAD** (9820)</li>
-  <li>🧛 **VAMPIRES** (45)</li>
+  <li>🧛🏻‍♂️ **VAMPIRES** (45)</li>
   <li>🐺 **WEREWOLVES** (35)</li>
   <li>👽 **ALIENS** (17)</li>
   <li>🦎 **REPTILIANS** (73)</li>
