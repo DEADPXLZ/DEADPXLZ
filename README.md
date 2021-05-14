@@ -38,6 +38,8 @@ Yep - no need for a centralized 3rd party marketplace to host your token on in o
 🎈 I call this _**EMBEDDED STATS**_ - a truly unique NFT feature brought to you for the first time ever on the 
 blockchain by the DEADPXLZ project! 
 
+### Wanna meet a random PXL? 👉 https://pxlz.org/#meet-a-PXL
+
 ### What about attributes?
 There's a total of 69 🙃 attributes which are combined together to  make each PXL unique.
 In addition to this, there are 6 types of PXLZ:
