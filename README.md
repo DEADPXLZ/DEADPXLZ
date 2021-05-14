@@ -81,10 +81,7 @@ https://user-images.githubusercontent.com/83417674/117320312-c8ab6280-ae94-11eb-
 
 _BTW - this can be done on any Android & iOS mobile device as well as Macs or PCs!_
 
-
-You'll soon be able to explore the entire collection & purchase your own on the official website - https://pxlz.org
-
-**In the meantime you can check out a random PXL here: https://pxlz.org/random**
+You can explore the entire collection & purchase your own on the official website - https://pxlz.org
 
 I encourage you to try and get acquainted with as many as you can. Who knows, you might nab a rare or even legendary one during one of the sale events!
 
