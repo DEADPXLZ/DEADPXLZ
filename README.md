@@ -101,7 +101,6 @@ All this information is publicly available on any of the Cardano blockchain expl
 ### Where do we go from here?
 
 ## https://pxlz.org
-## 🔥 Upcoming sale events: https://pxlz.org/sale
 ## 🤝 Meet a PXL: https://pxlz.org/#meet-a-PXL
 ## 📱 PXLZ use cases: https://pxlz.org/use-cases
 ## 🔭 PXL EXPLORER: https://pxlz.org/explorer
@@ -110,12 +109,11 @@ All this information is publicly available on any of the Cardano blockchain expl
 
 Join the official channels to engage with the community & stay up to date with the upcoming sale events:
 
-## Twitter: https://twitter.com/PXLZ14
-## Telegram: https://t.me/DEADPXLZ
+## Twitter: https://twitter.com/pxlzNFT
 ## Discord: https://discord.gg/cpMs9jvxJh
 
 Cheers! 🍻
--AF (https://twitter.com/adifanatiu)
+-AF (https://twitter.com/pxlzAF)
 
 -----
 ### Useful links - all available in the <a href="https://github.com/DEADPXLZ/DEADPXLZ">DEADPXLZ repo</a>:
