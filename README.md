@@ -1,7 +1,7 @@
 ## Hello & welcome to DEADPXLZ! 🖖
 
 ![DEADPXLZ_twitter_cover](https://user-images.githubusercontent.com/83417674/116793590-41df3a00-aad0-11eb-8c40-29a3d14fc32f.png)
-<a target="_blank" href="https://pxlz.org">Website</a> | <a target="_blank" href="https://t.me/DEADPXLZ">Telegram</a> | <a target="_blank"  href="https://discord.gg/cpMs9jvxJh">Discord</a> | <a target="_blank" href="https://twitter.com/pxlzNFT">Twitter</a> | <a target="_blank" href="https://github.com/DEADPXLZ/DEADPXLZ/">Github</a></p>
+<a target="_blank" href="https://pxlz.org">Website</a> | <a target="_blank"  href="https://discord.gg/cpMs9jvxJh">Discord</a> | <a target="_blank" href="https://twitter.com/pxlzNFT">Twitter</a> | <a target="_blank" href="https://github.com/DEADPXLZ/DEADPXLZ/">Github</a></p>
 
 **DEADPXLZ** is a collection of **10,000 code-generated, unique & interactable NFTs** minted on the Cardano 
 blockchain.
