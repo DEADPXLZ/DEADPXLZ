@@ -1,5 +1,6 @@
 {
   "@context": {
+    "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
     "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
@@ -51,24 +52,44 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": "blake2b-256",
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
   "body": {
     "doNotList": false,
-    "givenName": "AF",
-    "motivations": "Here to make sure we nail this governance thing. Laser-focused on improving Cardano, leveling up user experience, especially with on-chain gaming, and driving towards frictionless blockchain interactions. No BS, just progress.🔥",
-    "objectives": "1. \"Serve the public trust\"\n2. \"Protect the innocent\"\n3. \"Uphold the law\"",
-    "paymentAddress": "addr1qyftf2y2z8cxu8jycw4eduydef65cyjxgecersc0ayvdtzq48nqew7pu3xfufml7srdwgh0l9njwjpv43wucwvqqn2sqw663pv",
-    "qualifications": "- Building on Cardano since early 2021.\n- SPO of the [PXLZ] stake pool.\n- Creator of the DEADPXLZ ecosystem.\n- Working full time on a blockchain game called PXLWARS.",
+    "givenName": {
+      "@value": "AF"
+    },
+    "motivations": {
+      "@value": "Here to make sure we nail this governance thing. Laser-focused on improving Cardano, leveling up user experience, especially with on-chain gaming, and driving towards frictionless blockchain interactions. No BS, just progress.🔥"
+    },
+    "objectives": {
+      "@value": "1. \"Serve the public trust\"\n2. \"Protect the innocent\"\n3. \"Uphold the law\""
+    },
+    "paymentAddress": {
+      "@value": "addr1qyftf2y2z8cxu8jycw4eduydef65cyjxgecersc0ayvdtzq48nqew7pu3xfufml7srdwgh0l9njwjpv43wucwvqqn2sqw663pv"
+    },
+    "qualifications": {
+      "@value": "- Building on Cardano since early 2021.\n- SPO of the [PXLZ] stake pool.\n- Creator of the DEADPXLZ ecosystem.\n- Working full time on a blockchain game called PXLWARS."
+    },
     "references": [
       {
         "@type": "Link",
-        "label": "DEADPXLZ",
-        "uri": "https://pxlz.org"
+        "label": {
+          "@value": "DEADPXLZ"
+        },
+        "uri": {
+          "@value": "https://pxlz.org"
+        }
       },
       {
         "@type": "Identity",
-        "label": "Everything AF",
-        "uri": "https://pxlz.af"
+        "label": {
+          "@value": "Everything on what I do"
+        },
+        "uri": {
+          "@value": "https://pxlz.af"
+        }
       }
     ]
   }
